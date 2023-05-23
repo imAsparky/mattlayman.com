@@ -91,7 +91,7 @@ python-frontmatter==1.0.0
     # via -r requirements.in
 pyyaml==6.0
     # via python-frontmatter
-requests==2.27.1
+requests==2.31.0
     # via
     #   -r requirements.in
     #   google-api-core
